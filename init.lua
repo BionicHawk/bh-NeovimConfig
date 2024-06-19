@@ -1,0 +1,2 @@
+require("bionichawk")
+print("hello")
