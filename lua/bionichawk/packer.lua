@@ -28,4 +28,8 @@ return require('packer').startup(function(use)
 	  'nvim-treesitter/playground'
   }
 
+  use ('theprimeagen/harpoon')
+  use ('mbbill/undotree')
+  use ('tpope/vim-fugitive')
+
 end)
